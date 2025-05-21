@@ -103,10 +103,10 @@ VisionGuard is an AI-powered navigation system that combines object and people d
 <table>
   <tr>
     <td>
-      <img src="Images_and_Video/Capture.JPG" alt="Setup" width="400"/>
+      <img src="Outputs/img1.png" alt="Setup" width="400"/>
     </td>
     <td>
-      <img src="Images_and_Video/img1.jpg" alt="Setup" width="400"/>
+      <img src="Outputs/img2.png" alt="Setup" width="400"/>
     </td>
   </tr>
 </table>
